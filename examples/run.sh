@@ -1,0 +1,1 @@
+python articulation.py /home/aleph/articulation/examples/pataka.wav "examples/pataka_articulation.csv" "true" "false" "csv"

@@ -1,0 +1,10 @@
+# en linux tuve que correr: sudo apt-get install python3-dev para poder instalar 
+# el paquete pysptk (https://stackoverflow.com/questions/21530577/fatal-error-python-h-no-such-file-or-directory)
+
+# instalar praat tambien: sudo apt-get install praat
+
+Cython==3.0.10
+decorator==5.1.1
+numpy==1.26.4
+pysptk @ git+https://github.com/r9y9/pysptk@d24be591bbd56c04599538520c8e901061c4b232
+scipy==1.13.0
